@@ -1,0 +1,6 @@
+name: aps_cript
+dependencies:
+  - python=True
+  - pip
+  - pip:
+      - -e .
